@@ -1,0 +1,6 @@
+*.pyc
+.*
+logs
+!.gitignore
+_build
+dump.rdb
